@@ -1,0 +1,14 @@
+{
+  "name": "ssearch",
+  "version": "1.0.2",
+  "description": "The SSearch package for NodeJS",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "SSearch",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
