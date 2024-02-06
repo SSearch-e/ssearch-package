@@ -1,5 +1,9 @@
  # SSearch - NodeJS Search Engine Package
 
+## Example
+
+Run a example without downloading the package here: https://codesandbox.io/p/devbox/testssearchpackageonline-qx7znz
+
  ## Installation
 
  ```bash
